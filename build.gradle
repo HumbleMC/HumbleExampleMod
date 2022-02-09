@@ -23,7 +23,7 @@ repositories {
 dependencies {
     implementation 'org.spongepowered:mixin:0.8.5'
     implementation 'cn.enaium:launchwrapper:1.3.0'
-    implementation 'cn.enaium.humblemc:HumbleLoader:1.1.0'
+    implementation 'cn.enaium.humblemc:HumbleLoader:1.2.0'
 }
 
 humble {
