@@ -1,0 +1,7 @@
+{
+  "name": "ExampleMod",
+  "author": "Enaium",
+  "version": "1.0.0",
+  "description": "a example mod",
+  "mixin": "example.mod.mixins.json"
+}
